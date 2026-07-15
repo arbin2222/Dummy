@@ -1,4 +1,4 @@
 selenium
 pytest
-xlrd
+xlrd==1.2.0
 webdriver-manager
